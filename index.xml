@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Win&#39;s Blog</title>
+    <link>http://Winturtle.github.io/</link>
+    <description>Recent content on Win&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/natarajmb&#34;&gt;Nataraj Basappa&lt;/a&gt; 2018</copyright>
+    <lastBuildDate>Wed, 21 Aug 2019 15:12:09 +0800</lastBuildDate>
+    
+	<atom:link href="http://Winturtle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20190821-第一日</title>
+      <link>http://Winturtle.github.io/posts/20190821/</link>
+      <pubDate>Wed, 21 Aug 2019 15:12:09 +0800</pubDate>
+      
+      <guid>http://Winturtle.github.io/posts/20190821/</guid>
+      <description>今天開始每天都要寫cd</description>
+    </item>
+    
+  </channel>
+</rss>
