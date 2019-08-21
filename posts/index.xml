@@ -6,7 +6,6 @@
     <description>Recent content in Posts on Win&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/natarajmb&#34;&gt;Nataraj Basappa&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Wed, 21 Aug 2019 15:12:09 +0800</lastBuildDate>
     
 	<atom:link href="http://Winturtle.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +17,8 @@
       <pubDate>Wed, 21 Aug 2019 15:12:09 +0800</pubDate>
       
       <guid>http://Winturtle.github.io/posts/20190821/</guid>
-      <description>今天開始每天都要寫cd</description>
+      <description> 今天開始每天都要寫，歷經一整個早上的奮戰，瘋狂試用一堆的hugo&amp;rsquo;s themes，終於找到適用也版面清晰的了。但不知為何放上github暫管後，就變形了。所以只好在重新用另一個看看。決定在這加上每天建立文件後要用的終端機命令好了。
+將 /public 資料夾連結到 GitHub 上的github.io cd public git init git remote add origin https://github.com/chswei/chswei.github.io.git git add . git commit -m &amp;quot;Initial commit&amp;quot; git push -u origin master  將整個 website-hugo 資料夾連結到 GitHub 上的 website-hugo cd ../ git init git remote add origin https://github.com/chswei/website-hugo.git git add . git commit -m &amp;quot;Initial commit&amp;quot; git push -u origin master  </description>
     </item>
     
   </channel>
